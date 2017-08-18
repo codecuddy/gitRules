@@ -16,7 +16,8 @@ Steps on Github for a Originator
 
 ---After Pull Request Commment/Approved and Merged---
 11.) git checkout master
-12.) Repeat steps 5-11
+12.) git pull origin master (to get master up to date from Github)
+13.) Repeat steps 5-12
 
 Collaborate on Github for a Contributor
 
