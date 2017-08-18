@@ -1,3 +1,23 @@
+Steps on Github for a Originator
+
+---Initial Setup---
+ 1.) Create repo on Github
+ 2.) mkdir <directoryName>
+ 3.) git init
+ 4.) Follow Steps on Github
+ 
+ ---Common Procedure for Commit and Update--- 
+ 5.) git checkout -b <branchName>
+ 6.) Do Code
+ 7.) git add -A (to add all)
+ 8.) git commit -m "initial commit"
+ 9.) git push origin <branchName>
+10.) Create Pull Request on GitHub (on originators github file)
+
+---After Pull Request Commment/Approved and Merged---
+11.) git checkout master
+12.) Repeat steps 5-11
+
 Collaborate on Github for a Contributor
 
 ---Initial Setup---
@@ -17,7 +37,7 @@ Collaborate on Github for a Contributor
 ---After Pull Request Approved and Merged---
 11.) git checkout master
 12.) git pull origin <branchName>
-13.) Repeat steps 6-13
+13.) Repeat steps 6-12
 
  ---To Get Contributor Up-to-Date with Original Repo---
 4b.) git pull upstream master (make sure you're on master if wanted)
@@ -32,5 +52,5 @@ To-Do:
 1.) Non-orginator merge/approve pull requests
 2.) Practice merge conflicts
 3.) Make another repo and adjust steps where needed
-
 4.) Charlie: make terminal prettier
+
