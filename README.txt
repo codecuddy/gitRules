@@ -51,3 +51,6 @@ To-Do:
 
 1.) Non-orginator merge/approve pull requests
 2.) Practice merge conflicts
+3.) Make another repo and adjust steps where needed
+4.) Charlie: make terminal prettier
+
