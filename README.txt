@@ -1,13 +1,13 @@
 Collaborate on Github for a Contributor
 
 
-1.) Fork the repo (into desired directory)
-2.) Clone the repo
+1.) Fork the repo from Github (into desired directory)
+2.) git clone <forkedRepoName>
 3.) git init
-4.) git remote origin <YOUR_REPO>
-5.) git remote upstream <PARTNER_REPO>
-6.) git checkout -b <branch_name> ... Do Code 
-7.) git add -A 
-8.) git commit -m "initial commit"
-9.) git push origin <branch_name>
-10.) Create Pull Request on GitHub (on contributors github file)
+5.) git remote add upstream <forkedRepoName>
+6.) git checkout -b <branchName>
+7.) Do Code
+8.) git add -A (to add all)
+9.) git commit -m "initial commit"
+10.) git push origin <branchName>
+11.) Create Pull Request on GitHub (on contributors github file)
