@@ -45,7 +45,7 @@ Collaborate on Github for a Contributor
 15.) Repeat steps 6-12
 
  ---To Get Contributor Up-to-Date with Original Repo---
-5c.) git pull upstream master (make sure you're on master if wanted)
+6c.) git pull upstream master (make sure you're on master if wanted)
 
 
 
@@ -57,4 +57,3 @@ To-Do:
 1.) Non-orginator merge/approve pull requests
 2.) Practice merge conflicts
 3.) Make another repo and adjust steps where needed
-4.) Charlie: make terminal prettier
