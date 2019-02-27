@@ -8,17 +8,17 @@ Steps on Github for a Originator
  5.) Follow Steps on Github
  
  ---Common Procedure for Commit and Update--- 
- 5.) git checkout -b <branchName>
- 6.) Do Code
- 7.) git add -A (to add all)
- 8.) git commit -m "initial commit"
- 9.) git push origin <branchName>
-10.) Create Pull Request on GitHub (on originators github file)
+ 6.) git checkout -b <branchName>
+ 7.) Do Code
+ 8.) git add -A (to add all)
+ 9.) git commit -m "initial commit"
+10.) git push origin <branchName>
+11.) Create Pull Request on GitHub (on originators github file)
 
 ---After Pull Request Commment/Approved and Merged---
-11.) git checkout master
-12.) git pull origin master (to get master up to date from Github)
-13.) Repeat steps 5-12
+12.) git checkout master
+13.) git pull origin master (to get master up to date from Github)
+14.) Repeat steps 5-12
 
 Collaborate on Github for a Contributor
 
