@@ -3,8 +3,9 @@ Steps on Github for a Originator
 ---Initial Setup---
  1.) Create repo on Github
  2.) mkdir <directoryName>
- 3.) git init
- 4.) Follow Steps on Github
+ 3.) cd into directory
+ 4.) git init
+ 5.) Follow Steps on Github
  
  ---Common Procedure for Commit and Update--- 
  5.) git checkout -b <branchName>
