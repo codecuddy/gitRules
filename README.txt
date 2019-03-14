@@ -24,9 +24,9 @@ Collaborate on Github for a Contributor
 
 ---Initial Setup---
  1.) Fork the repo from Github (into desired directory)
- 2.) git init 
- 3.) git clone <yourForkedRepoName>
- 4.) change directory to created folder
+ 2.) change directory to created folder  
+ 3.) git init
+ 4.) git clone <yourForkedRepoName>
  5.) git remote -v (to see what upstream/origin are set)
 6a.) (If missing origin) git remote add origin <yourForkedRepoName>
 6b.) (If missing upstream) git remote add upstream <originalRepoName>
